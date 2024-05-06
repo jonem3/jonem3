@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Matt, a 3rd Year Mechatronic & Robotic Engineering Student at the University of Sheffield
+### I am also an Electrical Controls Technician at PAD Technology LTD in Essex
+
+🔭 I’m currently working on my Masters Group Project where we are using a Universal Robots UR10e and a UR5 to create a collaborative robots scenario using ROS2, MoveIt2 and Gazebo
 
 <!--
 **jonem3/jonem3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
