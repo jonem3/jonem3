@@ -3,9 +3,7 @@
 
 🔭 I’m currently working on my Masters Group Project where we are using a Universal Robots UR10e and a UR5 to create a collaborative robots scenario using ROS2, MoveIt2 and Gazebo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonem3)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Matts's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonem3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonem3)](https://github.com/anuraghazra/github-readme-stats)  [![Matts's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonem3)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jonem3/jonem3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
