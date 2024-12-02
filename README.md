@@ -1,12 +1,9 @@
-### Hi there 👋, I'm Matt, a 3rd Year Mechatronic & Robotic Engineering Student at the University of Sheffield
+### Hi there 👋, I'm Matt, a Year in Industry Mechatronic & Robotic Engineering Student at the University of Sheffield
 
-### Next year I will be working for Transport for London as an Engineering & Technology Intern for my Year in Industry. 
+### This year I will be working for Transport for London as an Engineering & Technology Intern. 
 
 🔭 I have recently been working on my Masters Group Project, where we were using the Universal Robots UR10e and UR5 to develop a collaborative robotic system to sort different objects. This was using ROS2, Gazebo & MATLAB. Aspects involved included path planning, machine vision and simulation.
 
-🌱 I’m currently learning Digital Signal processing and Machine Learning for use in control system development.
-
-🤔 I’m looking for help with figuring out what to do after my Masters. I intend to do a PhD, but need to figure out where.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonem3)](https://github.com/anuraghazra/github-readme-stats)  [![Matts's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonem3)](https://github.com/anuraghazra/github-readme-stats)
 
