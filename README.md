@@ -2,11 +2,6 @@
 
 ### This year I will be working for Transport for London as an Engineering & Technology Intern. 
 
-🔭 I have recently been working on my Masters Group Project, where we were using the Universal Robots UR10e and UR5 to develop a collaborative robotic system to sort different objects. This was using ROS2, Gazebo & MATLAB. Aspects involved included path planning, machine vision and simulation.
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonem3)](https://github.com/anuraghazra/github-readme-stats)  [![Matts's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonem3)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **jonem3/jonem3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
